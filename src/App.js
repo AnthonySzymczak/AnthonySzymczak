@@ -1,15 +1,18 @@
 import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
-import Gallery from './components/Gallery';
+import Portfolio from './components/Portfolio';
 import ContactForm from './components/Contact';
 
 function App() {
 
   const [categories] = useState([
-    { name: 'About me', description: 'Learn more about the creator',},
-    { name: 'Portfolio', description: 'Portraits of people in my life' },
-    { name: 'Resume', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    { name: 'cryptotycoon', description: 'A fun game on mining Doge-Coin',},
+    { name: 'gallery', description: 'A Gallery of A Gallery' },
+    { name: 'horiseon', description: 'A list of known technologies, strengths, weaknesses, and more!' },
+    { name: 'runbuddy', description: 'Information on the runbuddy website' },
+    { name: 'startifacts', description: 'A website for purchasing nerdy memoribila' },
+
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -28,7 +31,7 @@ function App() {
 
       {!contactSelected ? (
           <>
-            <Gallery currentCategory={currentCategory}></Gallery>
+            <Portfolio currentCategory={currentCategory}></Portfolio>
             <About></About>
           </>
         ) : (
