@@ -25,11 +25,12 @@ window.addEventListener('resize',showButton);
         <>
          <nav className="navbar">
             <div>
-                <Link to="/" className="navbar-logo">
                 
+                <Link to="/" className="navbar-logo">
                 <br/>
                 <i class="fas fa-laptop-code"/><i class="fas fa-hat-wizard"/>
                 </Link>
+                
                 <div className="menu-icon" onClick={handleClick}>
                     <i className={click ? 'fas fa-angle-double-down': 'fas fa-bars'} />
                 </div>

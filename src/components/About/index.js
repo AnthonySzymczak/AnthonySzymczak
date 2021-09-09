@@ -3,7 +3,7 @@ import coverImage from '../../assets/images/Heroes/Winter-Hero.jpg';
 function About() {
   return (
     <section className="my-5">
-      <h1 id="about">Anthony Szymczak, a developer for the people</h1>
+      {/* <h1 id="about">Anthony Szymczak, a developer for the people</h1> */}
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       <div className="my-2">
         <p>
