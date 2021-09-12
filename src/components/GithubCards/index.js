@@ -10,7 +10,7 @@ function GithubCards(props) {
                 </div>
     
                 <div className='links'>
-                    <a href={props.github} target="_blank"><i class="fas fa-github" alt="Github Repository"/></a>
+                    <a href={props.github} target="_blank"><i class="fa-solid fa-code-merge" alt="Github Repository"/></a>
                     <a href={props.deploy} target="_blank"><i class="fas fa-laptop-code" alt="Deployed Application"/></a>
                 </div>
             </div>
