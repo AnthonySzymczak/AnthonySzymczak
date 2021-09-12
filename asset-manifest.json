@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/AnthonySzymczak/static/css/main.2530c166.chunk.css",
+    "main.js": "/AnthonySzymczak/static/js/main.f1c6a78e.chunk.js",
+    "main.js.map": "/AnthonySzymczak/static/js/main.f1c6a78e.chunk.js.map",
+    "runtime-main.js": "/AnthonySzymczak/static/js/runtime-main.98883645.js",
+    "runtime-main.js.map": "/AnthonySzymczak/static/js/runtime-main.98883645.js.map",
+    "static/js/2.55051842.chunk.js": "/AnthonySzymczak/static/js/2.55051842.chunk.js",
+    "static/js/2.55051842.chunk.js.map": "/AnthonySzymczak/static/js/2.55051842.chunk.js.map",
+    "index.html": "/AnthonySzymczak/index.html",
+    "static/css/main.2530c166.chunk.css.map": "/AnthonySzymczak/static/css/main.2530c166.chunk.css.map",
+    "static/js/2.55051842.chunk.js.LICENSE.txt": "/AnthonySzymczak/static/js/2.55051842.chunk.js.LICENSE.txt",
+    "static/media/Crypto-Tycoon.0bfc05d9.png": "/AnthonySzymczak/static/media/Crypto-Tycoon.0bfc05d9.png",
+    "static/media/FirstPortfolio.61c732f6.png": "/AnthonySzymczak/static/media/FirstPortfolio.61c732f6.png",
+    "static/media/Gallery.eae9474f.png": "/AnthonySzymczak/static/media/Gallery.eae9474f.png",
+    "static/media/Horiseon.38a6c035.png": "/AnthonySzymczak/static/media/Horiseon.38a6c035.png",
+    "static/media/Resume.bfea53e2.png": "/AnthonySzymczak/static/media/Resume.bfea53e2.png",
+    "static/media/Runbuddy.c70bc32e.png": "/AnthonySzymczak/static/media/Runbuddy.c70bc32e.png",
+    "static/media/Startifacts.5af486a5.png": "/AnthonySzymczak/static/media/Startifacts.5af486a5.png",
+    "static/media/Winter-Hero.7213165f.jpg": "/AnthonySzymczak/static/media/Winter-Hero.7213165f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98883645.js",
+    "static/js/2.55051842.chunk.js",
+    "static/css/main.2530c166.chunk.css",
+    "static/js/main.f1c6a78e.chunk.js"
+  ]
+}
