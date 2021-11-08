@@ -1,8 +1,7 @@
 ## Let's connect!
 
 ### LinkedIn
-https://www.linkedin.com/in/anthony-szymczak-55b9a641/
-
+https://www.linkedin.com/in/anthonyszymczak
 #### Questions? Send me an email!
 anthonyszymczak@msn.com
 
