@@ -7,4 +7,4 @@ anthonyszymczak@msn.com
 
 Check out my personal webiste !
 
-https://anthonyszymczak.github.io/AnthonySzymczak/
+https://anthonyszymczak.github.io/profile/
