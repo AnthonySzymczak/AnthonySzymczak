@@ -11,4 +11,4 @@ https://anthonyszymczak.github.io/profile/
 
 
 #### What am I learning?
-Currently learning C# 1/18/2022
+Currently learning Unity and C# 3/19/2022
